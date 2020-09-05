@@ -1,6 +1,6 @@
 .intro__title {
     max-width: 690px;
-    min-width: 100%;
+    width: 100%;
     margin: 0;
     padding-top: 92px;
     font-style: normal;
@@ -17,7 +17,6 @@
      
     .intro__title {
         width: 720px;
-        margin: 0 auto;
 
     }
 
@@ -29,8 +28,7 @@
     .intro__title {
         font-size: 32px;
         line-height: 35px;
-        min-width: 288px;
-        max-width: 100%;
+        max-width: 288px;
         margin: 0 auto;
 
     }

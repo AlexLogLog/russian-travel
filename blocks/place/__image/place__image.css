@@ -1,7 +1,7 @@
 .place__image {
     margin: 0;
     padding-right: 40px;
-    width: 460px;
+    max-width: 460px;
     align-self: flex-start;
     }
 
@@ -16,7 +16,7 @@
 @media screen and (max-width: 1023px) and (min-width: 768px) {
     .place__image {
         padding-right: 28px;
-        width: 340px;
+        max-width: 340px;
     }
  
 }
@@ -25,7 +25,7 @@
     .place__image {
         padding-right: 0;
         padding-bottom: 8px;
-        width: 288px;
+        width: 320px;
     }
  
 }
